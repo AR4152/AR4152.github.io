@@ -22,7 +22,7 @@
       "startDate": "2024-07-25",
       "endDate": "",
       "summary": "Responsibilities include developing and implementing data integration strategies, evaluating global biodiversity datasets (including geospatial data), optimizing ELT processes, and creating visualizations to enhance user experience.",
-      "highlights": ["Techologies used: AWS, Python, SQL, TypeScript, React, Docker..."]
+      "highlights": ["Techologies used: AWS, Python, SQL, TypeScript, React, Docker...", "Implemented multiple ELT processes.", "Optimised runtime of one of the ELT process from several hours to couple of minutes."]
     },
     {
       "name": "Active Intelligence",
