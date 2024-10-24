@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NatureHelm Internship
-description: The work I completed during the first three months
+description: The work I completed during the first three months.
 img: assets/projects/naturehelm/video_thumbnail_c.png
 importance: 1
 category: work
