@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Undergrad</strong> @ <a href='https://www.anu.edu.au/'>ANU</a> • <strong>ML Researcher</strong> @ <a href='https://www.time.anu.edu.au/'>TIME Lab</a> • <strong>Software Intern</strong> @ <a href='https://www.naturehelm.com/'>NatureHelm</a> • live ⇄ learn ⇄ laugh
+subtitle: <strong>Undergrad</strong> @ <a href='https://anu.edu.au/'>ANU</a> • <strong>ML Researcher</strong> @ <a href='https://time.anu.edu.au/'>TIME Lab</a> • <strong>Software Intern</strong> @ <a href='https://naturehelm.com/'>NatureHelm</a> • live ⇄ learn ⇄ laugh
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there, thanks for stopping by! 👋
 
-I’m a third-year undergraduate research student at the [Australian National University](https://www.anu.edu.au/), with a keen focus on computer science research. I am also a researcher at the [TIME Lab](https://www.time.anu.edu.au/) and work as a Software Intern at [NatureHelm](https://www.naturehelm.com).
+I’m a third-year undergraduate research student at the [Australian National University](https://anu.edu.au/), with a keen focus on computer science research. I am also a researcher at the [TIME Lab](https://time.anu.edu.au/) and work as a Software Intern at [NatureHelm](https://naturehelm.com).
 
 As a CS researcher, I’m broadly interested in all aspects of machine learning, and particularly in computer vision, image/video analysis, deep learning and action recognition. Currently, I'm exploring ‘motion-centric’ topics under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/). Additionally, I’m starting to serve as a Reviewer for conferences, beginning with [ICASSP](https://2025.ieeeicassp.org/).
 
