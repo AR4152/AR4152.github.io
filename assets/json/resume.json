@@ -22,7 +22,13 @@
       "startDate": "2024-11-01",
       "endDate": "",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Design and implement data analytics and ETL modules using Python, SQL and AWS to tackle engineering and scientific challenges.",
+        "Contribute to API development and web platform implementation, including data visualizations, with TypeScript (NextJS, React).",
+        "Optimize algorithm performance, focusing on computational complexity, memory usage, and data structures.",
+        "Deliver high-quality, well-documented code, adhering to standards with automated linting, formatting, and testing tools.",
+        "<b>Tech stack:</b> AWS (Batch, Step Functions, Lambdas, etc), Python, SQL, TypeScript, React, NextJS, Git."
+      ]
     },
     {
       "name": "NatureHelm (Wildlife Drones)",
@@ -48,12 +54,12 @@
       "institution": "The Australian National University",
       "location": "Canberra, Australia",
       "url": "https://www.anu.edu.au/",
-      "area": "Machine Learning Major",
+      "area": "Machine Learning Specialisation",
       "studyType": "Bachelor of Advanced Computing (R&D) (Honours)",
       "startDate": "2022-07-25",
       "endDate": "2026-06-01",
       "score": "10",
-      "courses": [" Researcher at the TIME Lab.", "Former President of the Formula Racing Student Club.", "Research Portfolio Officer at the Research Society."]
+      "courses": ["Researcher and Operations Lead at the TIME Lab.", "Former President of the Formula Racing Student Club.", "Research Portfolio Officer at the Research Society."]
     }
   ],
   "awards": [
@@ -105,15 +111,15 @@
   "publications": [
     {
       "name": "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps",
-      "publisher": "Submitted to ICASSP",
-      "releaseDate": "2024-09-22",
+      "publisher": "To Appear in ICASSP 2025",
+      "releaseDate": "2025-05-05",
       "url": "https://arxiv.org/abs/2409.14543",
       "summary": "This paper introduces TrackNetV4, an enhancement of the TrackNet series for tracking high-speed objects like tennis balls and shuttlecocks. It addresses challenges in partial occlusion and low visibility by combining visual features with learnable motion attention maps through a motion-aware fusion mechanism. This method emphasizes key motion areas, improving tracking accuracy significantly. Experimental results confirm that TrackNetV4 enhances the performance of TrackNetV2 and V3 on relevant datasets."
     },
     {
       "name": "Advancing Video Anomaly Detection: A Concise Review and a New Dataset",
-      "publisher": "To Appear in NeurIPS 2024 Datasets and Benchmarks Track",
-      "releaseDate": "2024-09-26",
+      "publisher": "The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2024",
+      "releaseDate": "2024-12-11",
       "url": "https://arxiv.org/abs/2402.04857",
       "summary": "This paper reviews Video Anomaly Detection (VAD), focusing on its applications and the need for concise resources for researchers. It highlights the importance of dataset quality in model performance and introduces the Multi-Scenario Anomaly Detection (MSAD) dataset, featuring 14 diverse scenarios. This dataset aims to improve anomaly detection across varying conditions and supports recent model analyses to address VAD challenges effectively."
     },
@@ -210,11 +216,11 @@
     {
       "organization": "TIME Lab",
       "location": "ANU, Canberra, Aus",
-      "position": "Digital Operations Lead",
+      "position": "Operations Lead",
       "url": "https://time.anu.edu.au/",
       "startDate": "2024-02-02",
       "endDate": "",
-      "summary": "I oversee the overall digital operations of the TIME Lab, ensuring everything runs smoothly across various platforms. From website development and management to social media postings, I handle the lab’s online presence and communications. I also manage day-to-day operations, email correspondence, and external communications, making sure the lab’s activities are effectively conveyed and its digital presence remains cohesive and engaging.",
+      "summary": "I oversee the overall operations of the TIME Lab, ensuring everything runs smoothly across various platforms. From website development and management to social media postings, I handle the lab’s online presence and communications. I also manage day-to-day operations, email correspondence, and external communications, making sure the lab’s activities are effectively conveyed and its presence remains cohesive and engaging.",
       "highlights": []
     },
     {
