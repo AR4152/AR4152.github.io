@@ -25,5 +25,7 @@ As a software developer, I am proficient in a range of technologies, including P
 
 In my spare time, I enjoy playing sports (mostly running and ultimate frisbee), watching F1 and cricket, traveling, and going on hikes with friends and family. I also enjoy gazing at the blue sky during the day.
 
+In the future, I aim to contribute influential research that advances the field of machine learning, focusing on innovative solutions to address real-world problems. My goal is to develop tools and methodologies that shape the future of AI and leave a lasting impact on both academia and industry.
+
 <!-- *Curious about my username, AR4152? With ‘Arjun/ArjunRaj’ always taken, I had to come up with a unique set of characters - ‘A’ stands for Arjun, and ‘R’ stands for Raj. 41 is the hexadecimal-value of A, and 52 is the hexadecimal-value of R.* -->
 
