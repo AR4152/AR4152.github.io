@@ -27,7 +27,7 @@
         "Contribute to API development and web platform implementation, including data visualizations, with TypeScript (NextJS, React).",
         "Optimize algorithm performance, focusing on computational complexity, memory usage, and data structures.",
         "Deliver high-quality, well-documented code, adhering to standards with automated linting, formatting, and testing tools.",
-        "<b>Tech stack:</b> AWS (Batch, Step Functions, Lambdas, etc), Python, SQL, TypeScript, React, NextJS, Git."
+        "<b>Tech stack:</b> AWS (Batch, Step Functions, Lambdas, etc), Python, SQL, TypeScript, React, NextJS, Git, Docker."
       ]
     },
     {
