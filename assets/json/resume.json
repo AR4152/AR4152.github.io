@@ -112,7 +112,7 @@
     {
       "name": "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps",
       "publisher": "To Appear in ICASSP 2025",
-      "releaseDate": "2025-05-05",
+      "releaseDate": "2025-04-05",
       "url": "https://arxiv.org/abs/2409.14543",
       "summary": "This paper introduces TrackNetV4, an enhancement of the TrackNet series for tracking high-speed objects like tennis balls and shuttlecocks. It addresses challenges in partial occlusion and low visibility by combining visual features with learnable motion attention maps through a motion-aware fusion mechanism. This method emphasizes key motion areas, improving tracking accuracy significantly. Experimental results confirm that TrackNetV4 enhances the performance of TrackNetV2 and V3 on relevant datasets."
     },
