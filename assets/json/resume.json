@@ -80,6 +80,13 @@
   ],
   "certificates": [
     {
+      "name": "Power Platform Fundamentals",
+      "date": "2025-04-09",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/users/arjunraj-3780/credentials/303d1f3a10a12448",
+      "icon": "fa-solid fa-robot"
+    },
+    {
       "name": "Java SE 8 Programmer",
       "date": "2021-01-27",
       "issuer": "Oracle",
@@ -111,9 +118,9 @@
   "publications": [
     {
       "name": "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps",
-      "publisher": "To Appear in ICASSP 2025",
+      "publisher": "ICASSP 2025",
       "releaseDate": "2025-04-05",
-      "url": "https://arxiv.org/abs/2409.14543",
+      "url": "https://ieeexplore.ieee.org/document/10889364",
       "summary": "This paper introduces TrackNetV4, an enhancement of the TrackNet series for tracking high-speed objects like tennis balls and shuttlecocks. It addresses challenges in partial occlusion and low visibility by combining visual features with learnable motion attention maps through a motion-aware fusion mechanism. This method emphasizes key motion areas, improving tracking accuracy significantly. Experimental results confirm that TrackNetV4 enhances the performance of TrackNetV2 and V3 on relevant datasets."
     },
     {
@@ -194,7 +201,7 @@
   ],
   "projects": [
     {
-      "name": "View on projets page",
+      "name": "View on projects page",
       "summary": "",
       "highlights": [],
       "startDate": "",
